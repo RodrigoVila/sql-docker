@@ -96,17 +96,18 @@ Open and copy any content of the above scripts for the DB you would like to test
 
 
 Paste and run the script in your manager for the desired DB.
-![Alt text](image.png)
+![image](https://github.com/RodrigoVila/sql-docker/assets/42290738/5a341a2b-9e38-43c0-b5da-4f6e409b58a5)
 
 ### 4. ADD CREDENTIALS TO .ENV FILE
 
 Uncomment needed lines for the credentials you need. For example, to test a postgres DB, uncomment lines 9 to 13.
 
-![Alt text](image-1.png)
+![image](https://github.com/RodrigoVila/sql-docker/assets/42290738/5317abbd-9963-436b-bdad-70b6a15dc454)
+
 
 If you are usinng your own credentials, only update the values for the given keys
 
-![Alt text](image-3.png)
+![image](https://github.com/RodrigoVila/sql-docker/assets/42290738/c209f09b-5e46-41a8-8cfd-e33d57f009ed)
 
 ### 5. Test DB
 
